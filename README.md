@@ -1,2 +1,3 @@
 # python_project
 与python相关的代码
+用于vscode上传到github的练习
