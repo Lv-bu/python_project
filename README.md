@@ -2,4 +2,4 @@
 与python相关的代码
 用于vscode上传到github的练习
 
-nowcoder282，牛客网python3，第三章第282节的代码开始学习
+nowcoder282，牛客网python3，第三章第283节到355节的代码学习
