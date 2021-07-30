@@ -1,5 +1,5 @@
 # -*- coding:UTF-8 -*-
-# from : www.nowcoder.com
+# from : https://www.nowcoder.com/tutorial/10005/6ba66479376448deb8fe4be88b93cd23
 
 
 ######1、计算输入数字的平方根（又叫二次方根，表示为〔√￣〕，如：数学语言为：√￣16=4。语言描述为：根号下16=4）
