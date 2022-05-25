@@ -4,4 +4,4 @@
 
 nowcoder，牛客网python3，第三章第283节到355节的代码学习
 
-github,  Python - 100天从新手到大师
+github_py100days,  Python - 100天从新手到大师

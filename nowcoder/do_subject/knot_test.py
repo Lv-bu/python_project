@@ -4,9 +4,12 @@
 # A mapping of digit to letters (just like on the telephone buttons) is being followed. Note that 0 and 1 do not map to any letters. 
 # Example ：
 # Input: [2,3] Output: ad ae af bd be bf cd ce cf                Input [9] Output: w x y z
+#给定一个包含 [0, 9] 中数字的整数列表，任务是打印数字可以表示的所有可能的字母组合。
+#遵循数字到字母的映射（就像电话按钮上的一样）。 请注意，0 和 1 不映射到任何字母。
+#例子 ：
+# 输入：[2,3] 输出：ad ae af bd be bf cd ce cf                    输入 [9] 输出：w x y z
 
-
-
+#%%
 def letter_Combinations(num):
 
 	# 数字对应的字符列表
@@ -45,3 +48,4 @@ def letter_Combinations(num):
 
 if __name__ == '__main__':
     print(letter_Combinations(input("请输入2-9的数字：")))
+# %%
